@@ -1,0 +1,26 @@
+_repo: The-recalcitrant_74162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldstein, Evelyn
+    gutenberg_agent_id: '52562'
+    url: http://www.gutenberg.org/2009/agents/52562
+description: ''
+gutenberg_issued: '2024-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74162'
+language: en
+pgterms:marc905: 20240310134125goldstein
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The recalcitrant
+url: http://www.gutenberg.org/ebooks/74162
